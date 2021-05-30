@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class alertWebelements {
-//Deneme 123git
+//Zeki branch
     @Test
     public void alertWeb() throws InterruptedException {
 
